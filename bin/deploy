@@ -84,7 +84,7 @@ bundle exec jekyll build
 find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
 mv _site/* .
 rm -R _site/
-rm Gemfile.lock
+rm Gemfile.lock		# added by hlee
 
 # Push to DEPLOY_BRANCH
 git add -fA
