@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Lee</strong>, Hee Won
-description: <a href="https://about.att.com/sites/labs_research">AT&T Labs Research</a>. <a href="mailto:knowpd@research.att.com">knowpd@research.att.com</a>.
+description: <a href="mailto:knowpd@gmail.com">knowpd@gmail.com</a>.
 
 profile:
   align: right
