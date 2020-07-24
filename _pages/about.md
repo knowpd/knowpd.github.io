@@ -2,13 +2,12 @@
 layout: about
 permalink: /
 title: <strong>Lee</strong>, Hee Won
-description: <a href="mailto:knowpd@gmail.com">knowpd@gmail.com</a>.
+description: PhD in Computer Science, Email: <a href="mailto:knowpd@gmail.com">knowpd@gmail.com</a>.
 
 profile:
   align: right
   image: hlee_35by45mm.jpg
   address: >
-    <p>4D155G</p>
     <p>1 AT&T Way</p>
     <p>Bedminster, NJ 07920</p>
 
