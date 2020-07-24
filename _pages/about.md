@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Lee</strong>, Hee Won
-description: PhD in Computer Science, <a href="mailto:knowpd@gmail.com">knowpd@gmail.com</a>.
+description: PhD in Computer Science. <a href="mailto:knowpd@gmail.com">knowpd@gmail.com</a>.
 
 profile:
   align: right
