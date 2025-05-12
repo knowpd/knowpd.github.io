@@ -2,22 +2,20 @@
 layout: about
 permalink: /
 title: <strong>Lee</strong>, Hee Won
-description: <a href="https://about.att.com/sites/labs_research">AT&T Labs Research</a>. <a href="mailto:knowpd@research.att.com">knowpd@research.att.com</a>.
+description: 'e-mail: <a href="mailto:knowpd@kfclan">knowpd@gmail.com</a>'
 
 profile:
   align: right
   image: hlee_35by45mm.jpg
-  address: >
-    <p>4D155G</p>
-    <p>1 AT&T Way</p>
-    <p>Bedminster, NJ 07920</p>
+  address:
+    <p>Basking Ridge, NJ 07920</p>
 
 news: false
 social: true
 ---
 
   Hee Won Lee is a cloud systems expert with over 20 years of experience designing, implementing, and 
-  optimizing distributed systems across public, private, and hybrid cloud environments.<
+  optimizing distributed systems across public, private, and hybrid cloud environments.
   
   He was a Principal Engineer at [Samsung Electronics](https://www.samsung.com/us/about-us/our-business) (2020–2024), 
   where he led a team of over 50 engineers operating cloud platforms supporting more than 20,000 virtual machines. 
